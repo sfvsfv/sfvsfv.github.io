@@ -1,3 +1,3 @@
 # chuan.github.io
 
-站点：https://sfvsfv.github.io/github.io/
+站点：https://sfvsfv.github.io
