@@ -1,0 +1,97 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 36px;
+    text-align: center;
+}
+
+form {
+    margin: 20px 0;
+}
+
+label {
+    font-size: 20px;
+    font-weight: bold;
+    display: inline-block;
+    width: 150px;
+}
+
+input[type="text"],
+input[type="file"] {
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[type="button"] {
+    font-size: 18px;
+    padding: 10px 20px;
+    background-color: #4CAF50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#status {
+    font-size: 20px;
+    font-weight: bold;
+    margin-top: 20px;
+    text-align: center;
+}
+
+#fileList {
+    margin-top: 20px;
+}
+
+.file {
+    font-size: 18px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: #f0f0f0;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.filename {
+    flex-grow: 1;
+}
+
+.filesize {
+    margin-right: 20px;
+}
+
+.download,
+.delete {
+    font-size: 18px;
+    font-weight: bold;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.download {
+    background-color: #4CAF50;
+    color: #fff;
+    margin-right: 10px;
+}
+
+.delete {
+    background-color: #f44336;
+    color: #fff;
+}
