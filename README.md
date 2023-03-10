@@ -4,7 +4,7 @@
 
 ChatGpt地址：https://sfvsfv.github.io/
 
-可以公用的KEY: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
+可以公用的KEY:   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
 
 公众号：（需要购买KEY，可以公众号关注后联系我）
 
