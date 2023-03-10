@@ -1,7 +1,5 @@
 # Github 个人网站
 
-地址：https://sfvsfv.github.io/
-
 ChatGpt地址：https://sfvsfv.github.io/
 
 可以公用的KEY:   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
