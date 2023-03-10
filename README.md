@@ -3,6 +3,9 @@
 ChatGpt地址：https://sfvsfv.github.io/
 
 可以公用的KEY:   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，注意公用KEY请求经常失败。
+## 注意
+本站并不会收集你的KEY。相关信息，只属于你个人使用。即使你看到填写的KEY是暴露的，但是别人访问该网站是属于自己的一个新页面。
+意味着，每个人都可以把它当作属于自己的网站使用即可。
 ## 使用方法
 使用前提：打开梯子。
 1. 填写自用的KEY，保存
