@@ -1,0 +1,27 @@
+{
+  "description": "AI在线对话",
+  "sourceCode": "",
+  "initiative": {
+    "description": "请你填写自己KEY。购买账号和KEY可以加下面的微信。",
+    "link": ""
+  },
+  "support": {
+    "title": "个人博客",
+    "paragraph1": "公众号：川川带你学AI",
+    "paragraph2": "知乎：川川菜鸟",
+    "paragraph3": "微信：hxgsrubxjogxeeag",
+    "paragraph4": "",
+    "alipay": "",
+    "wechatPay": ""
+  },
+  "discordServer": {
+    "title": "",
+    "paragraph1": "",
+    "paragraph2": ""
+  },
+  "privacyStatement": {
+    "title": "隐私",
+    "paragraph1": "本站不会保留你的个人信息，所有信息都会缓存在你的本地浏览器中。",
+    "paragraph2": ""
+  }
+}

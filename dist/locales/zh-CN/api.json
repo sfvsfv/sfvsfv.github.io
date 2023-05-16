@@ -1,0 +1,15 @@
+{
+  "securityMessage": "如需使用此镜像，请自行填写密钥即或者使用付费版。",
+  "apiEndpoint": {
+    "inputLabel": "API 端点",
+    "description": "本站优点：可以上下文对话，不会卡顿，支持3.5和4.0。",
+    "warn": ""
+  },
+  "apiKey": {
+    "howTo": "",
+    "inputLabel": "API 密钥"
+  },
+  "customEndpoint": "默认API端点，不要修改",
+  "advancedConfig": "公众号：川川带你学AI",
+  "noApiKeyWarning": "请填写密钥KEY才能使用"
+}
