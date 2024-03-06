@@ -17,8 +17,5 @@ ChatGpt地址：https://sfvsfv.github.io/
 
 
 ## 公众号
-公众号：（更多竞赛、项目源码发布）
-
-![公众号](https://user-images.githubusercontent.com/62045791/224259546-d0bec9c4-12da-461e-aa1b-2336bb000ac9.jpg)
-
+公众号：川川菜鸟
 
