@@ -1,6 +1,8 @@
 ## Github 个人网站
+本站废弃，太简陋了~推荐大家使用新网站如下：
+镜像站：https://hi.zhangsan.shop
+Share-GPT4官方站：https://hello.zhangsan.shop/list
 
-ChatGpt地址：https://sfvsfv.github.io/
 
 ## 注意
 本站并不会收集你的KEY。相关信息，只属于你个人使用。即使你看到填写的KEY是暴露的，但是别人访问该网站是属于自己的一个新页面。
