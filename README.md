@@ -1,7 +1,8 @@
 ## Github 个人网站
 本站废弃，太简陋了~推荐大家使用新网站如下：
-镜像站：https://hi.zhangsan.shop
-Share-GPT4官方站：https://hello.zhangsan.shop/list
+https://hello.zhangsan.shop
+
+
 
 
 ## 注意
